@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4071'
     url: http://www.gutenberg.org/2009/agents/4071
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18362#Fifteen-Thousand-Useful-Phrases--13-A-Practical-Handbook-Of-Pertinent-Expressions-Striking-Si_
 gutenberg_bookshelf: Reference
 gutenberg_issued: '2006-05-10'
 gutenberg_type: Text
