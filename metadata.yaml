@@ -1,0 +1,30 @@
+_repo: Fifteen-Thousand-Useful-Phrases--13-A-Practical-Handbook-Of-Pertinent-Expressions-Striking-Si__18362
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kleiser, Grenville
+    birthdate: 1868
+    deathdate: 1953
+    gutenberg_agent_id: '4071'
+    url: http://www.gutenberg.org/2009/agents/4071
+description: ''
+gutenberg_bookshelf: Reference
+gutenberg_issued: '2006-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Terms and phrases'
+title: "Fifteen Thousand Useful Phrases\r\nA Practical Handbook Of Pertinent Expressions,\
+  \ Striking Similes, Literary, Commercial, Conversational, And Oratorical Terms,\
+  \ For The Embellishment Of Speech And Literature, And The Improvement Of The Vocabulary\
+  \ Of Those Persons Who Read, Write, And Speak English"
+url: http://www.gutenberg.org/ebooks/18362
